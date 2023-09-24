@@ -1,0 +1,109 @@
+body {
+    font-family: 'Helvetica', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    max-width: 900px;
+    margin: auto; 
+    background-image: url("subtle.jpg");   
+}
+
+h1 {
+    font-size: 50px;
+    color: #c22026;
+    font-weight: 900;
+    display: inline-block;
+}
+
+nav {
+    line-height: 1em;
+    color: #123842;
+    font-size: 20px;
+    font-weight: 400;
+    display: inline-block;
+}
+
+h2 {
+
+    color: #123842;
+    font-size: 30px;
+    font-weight: 900;
+    
+}
+
+h3 {
+    color: #c22026;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+h4 {
+
+    color: #123842;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h5 {
+
+    color: #123842;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+div.summary {
+    border-style: solid;
+    border-color: gainsboro;
+    padding: 10px;
+    float: right;
+    border-radius: 25px;
+    margin: 20px;
+    
+  }
+
+div.experience {
+    position: relative;
+    left: 35px;
+  }
+
+  
+
+  div.awards {
+    border-style: solid;
+    border-color: gainsboro;
+    padding: 10px;
+    border-radius: 25px;}
+
+    
+    div.resume {
+        position: relative;
+        left: 35px;
+      }
+   
+
+
+    hr {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+.sidebar {
+
+    float: right;
+    height: 100px;
+    width: 200px;
+    Padding: 5px;
+    border: 1px #123842;
+    
+
+}
+
+img {
+    float: left;
+    margin: 30px;
+}
+
+.social {
+    float: right;
+    display: inline-block;
+    border: 1 px #123842
+}
