@@ -94,16 +94,29 @@ div.experience {
     Padding: 5px;
     border: 1px #123842;
     
-
 }
 
 img {
     float: left;
-    margin: 30px;
+    margin: 0px 30px 30px 30px;
 }
 
 .social {
     float: right;
     display: inline-block;
-    border: 1 px #123842
+    border: 1 px #
+}
+
+.red-text{
+    color:#c22026;
+
+
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+.italic-text{
+    font-style: italic;
 }
